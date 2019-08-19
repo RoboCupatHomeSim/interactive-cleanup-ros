@@ -1,8 +1,8 @@
 # ROS Package for Interactive Cleanup
 
-This project is ROS package for the Interactive Cleanup task of the Partner Robot Challenge (Virtual Space) in the World Robot Competition.
+This project is ROS package for the Interactive Cleanup task of the RoboCup@Home Simulation.
 
-See also [wiki page](https://github.com/PartnerRobotChallengeVirtual/interactive-cleanup-ros/wiki).
+See also [wiki page](https://github.com/RoboCupatHomeSim/interactive-cleanup-ros/wiki).
 
 
 ## Prerequisites
@@ -26,7 +26,7 @@ https://github.com/SIGVerse/ros_package/tree/master/sigverse_ros_bridge
 
 ```bash:
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/PartnerRobotChallengeVirtual/interactive-cleanup-ros.git
+$ git clone https://github.com/RoboCupatHomeSim/interactive-cleanup-ros.git
 $ cd ..
 $ catkin_make
 ```
