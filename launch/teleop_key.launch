@@ -10,7 +10,7 @@
 	<arg name="sync_time_num"              default="1" />
 	<arg name="ros_bridge_port"            default="9090" />
 
-	<node name="teleop_key_interactive_cleanup" pkg="interactive_cleanup" type="teleop_key_interactive_cleanup" output="screen" launch-prefix="xterm -e">
+	<node name="teleop_key_interactive_cleanup" pkg="interactive_cleanup" type="teleop_key_interactive_cleanup" output="screen" launch-prefix="gnome-terminal -t 'HSR teleop key' -e">
 
 		<param name="sub_msg_to_robot_topic_name"       type="string" value="$(arg sub_msg_to_robot_topic_name)" />
 		<param name="pub_msg_to_moderator_topic_name"   type="string" value="$(arg pub_msg_to_moderator_topic_name)" />
