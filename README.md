@@ -7,8 +7,8 @@ See also [wiki page](https://github.com/RoboCupatHomeSim/interactive-cleanup-ros
 
 ## Prerequisites
 
-- OS: Ubuntu 16.04
-- ROS distribution: Kinetic Kame
+- OS: Ubuntu 18.04
+- ROS distribution: Melodic Morenia
 
 ## How to Install
 
