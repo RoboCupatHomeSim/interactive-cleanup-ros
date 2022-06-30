@@ -7,8 +7,8 @@ See also [wiki page](https://github.com/RoboCupatHomeSim/interactive-cleanup-ros
 
 ## Prerequisites
 
-- OS: Ubuntu 18.04
-- ROS distribution: Melodic Morenia
+Same as below for OS and ROS version.  
+https://github.com/RoboCupatHomeSim/documents/blob/master/SoftwareManual/Environment.md#ubuntu-pc
 
 ## How to Install
 
